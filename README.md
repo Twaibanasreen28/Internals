@@ -1,2 +1,2 @@
-# Internals
-first internals 
+# Numpy and pandas 
+Numpy quiz
